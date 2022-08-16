@@ -5,5 +5,6 @@ In the end it prints out the account names who don't follow back your account.
 # IMPORTANT 
 - This needs to be Python version 3.7 or up
 - Username and password need to be changed for the bot to log in to your account. 
+- use pip install selenium in your terminal 
 
 
