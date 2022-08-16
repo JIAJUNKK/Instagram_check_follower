@@ -4,6 +4,6 @@ In the end it prints out the account names who don't follow back your account.
 
 # IMPORTANT 
 - This needs to be Python version 3.7 or up
-- username and password need to be changed for the bot to log in to your account. 
+- Username and password need to be changed for the bot to log in to your account. 
 
 
